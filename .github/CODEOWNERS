@@ -1,5 +1,6 @@
-# 示範：改到這些檔案，GitHub 會自動請這些人 review。
-# 由上往下，最後符合的那一行算數。
+# 示範用：改到這些檔案，GitHub 會自動請 @yillkid review。
+# 你自己的 repo 要換成你和組員的 GitHub 帳號。
 
-*                 @yillkid @chikatsai
-/tests/           @chikatsai
+*                 @yillkid
+/tests/           @yillkid
+/.github/         @yillkid
